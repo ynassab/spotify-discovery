@@ -1,0 +1,2 @@
+# spotify-discovery
+I've had poor experience with Spotify's curation algorithm over the last two years, which recommends music based on very broad genre categories and is unable to identify which qualities of a track I actually enjoy. Finding truly good music is still difficult, but being offered some variety is better than the status quo. Therefore, I wrote a simple program to present me with randomly selected tracks from among the few tens of thousands of most popular tracks in Spotify's database across all available languages.
